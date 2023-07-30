@@ -1,3 +1,71 @@
+# Colorize - Application de génération de palettes de couleurs
+
+Bienvenue dans Colorize, une application web pour générer des palettes de couleurs attrayantes et harmonieuses. Cette application est conçue pour les concepteurs, les développeurs et toute personne recherchant des combinaisons de couleurs inspirantes.
+
+## Installation
+
+1. Assurez-vous que vous avez [Node.js](https://nodejs.org/) installé sur votre ordinateur.
+
+2. Clonez ce dépôt de code source en utilisant la commande suivante :
+
+```
+git clone https://github.com/votre-utilisateur/colorize.git
+```
+
+3. Accédez au répertoire du projet :
+
+```
+cd colorize
+```
+
+4. Installez les dépendances nécessaires en exécutant la commande suivante :
+
+```
+npm install
+```
+
+## Utilisation
+
+1. Une fois les dépendances installées, démarrez l'application en utilisant la commande :
+
+```
+npm start
+```
+
+2. Ouvrez votre navigateur et accédez à l'URL suivante : [http://localhost:3000](http://localhost:3000)
+
+3. Vous serez redirigé vers la page d'accueil de Colorize, où vous pourrez générer des palettes de couleurs en cliquant sur le bouton "Refresh".
+
+4. Pour accéder à la page "Collection" où vous pourrez enregistrer et gérer vos palettes de couleurs préférées, cliquez sur l'onglet "Collection" dans la barre de navigation.
+
+5. Pour l'inspiration cette section n'est pas encore disponible
+
+## Tests
+
+L'application est livrée avec des tests pour s'assurer que tout fonctionne correctement. Pour exécuter les tests, utilisez la commande suivante :
+
+```
+npm test
+```
+
+## Contributions
+
+Les contributions à l'amélioration de Colorize sont les bienvenues ! Si vous souhaitez contribuer, veuillez créer une branche avec vos modifications et soumettre une demande de fusion (pull request). Nous serons ravis de revoir vos ajouts.
+
+## Auteurs
+
+- Jeff Fortuné(jefffortune45@gmail.com)
+
+## Licence
+
+Ce projet est sous licence MIT - consultez le fichier LICENSE.md pour plus de détails.
+
+---
+
+Nous espérons que vous apprécierez l'utilisation de Colorize pour vos projets de conception et de développement. Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter.
+
+Merci de votre intérêt pour Colorize ! Happy coloring ! 🎨
+-----------------English--------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
